@@ -4,4 +4,3 @@
 2. Used DarkFlow and yolo 2 pretrained weights to identify objects in a video.
 - DarkFlow is a python implementation of YOLOv2 using Tensorflow.
 3. People Counting using Yolov4
-- Still working*
